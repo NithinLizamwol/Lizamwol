@@ -46,7 +46,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template= https://github.com/NithinLizamwol/Sophia.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template= https://github.com/NithinLizamwol/Lizamwol.git)
      </div>
 <br>
 <br >
@@ -61,8 +61,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/NithinLizamwol/Lizamwol
+$ cd lizamwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -71,7 +71,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ git clone https://github.com/NithinLizamwol/Lizamwol
 $ cd pikachu
 $ chmod +x *
 $ npm i
